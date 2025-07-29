@@ -20,7 +20,7 @@ CSS Stle
 - Hover effects for navigation links highligted in white.
 - Rounded and styled image with accessibility `alt` text
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3 (exterbal styles)
